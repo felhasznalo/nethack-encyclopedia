@@ -14,8 +14,8 @@
         android:onClick="onClickQuickStatsButton">
 
         <ImageView
-            android:layout_width="60px"
-            android:layout_height="60px"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
             android:onClick="onClickQuickStatsButton"
             android:paddingLeft="15dp"
             android:src="@drawable/quick_stats" />
@@ -52,8 +52,8 @@
         android:onClick="onClickEncyclopediaButton">
 
         <ImageView
-            android:layout_width="60px"
-            android:layout_height="60px"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
             android:onClick="onClickEncyclopediaButton"
             android:paddingLeft="15dp"
             android:src="@drawable/encyclopedia" />
@@ -90,8 +90,8 @@
         android:onClick="onClickMessagesButton">
 
         <ImageView
-            android:layout_width="60px"
-            android:layout_height="60px"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
             android:onClick="onClickMessagesButton"
             android:paddingLeft="15dp"
             android:src="@drawable/messages" />
@@ -128,8 +128,8 @@
         android:onClick="onClickCalculatorButton">
 
         <ImageView
-            android:layout_width="60px"
-            android:layout_height="60px"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
             android:onClick="onClickCalculatorButton"
             android:paddingLeft="15dp"
             android:src="@drawable/calculator" />
@@ -166,8 +166,8 @@
         android:onClick="onClickGameTrackerButton">
 
         <ImageView
-            android:layout_width="60px"
-            android:layout_height="60px"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
             android:onClick="onClickGameTrackerButton"
             android:paddingLeft="15dp"
             android:src="@drawable/game_tracker" />
@@ -204,8 +204,8 @@
         android:onClick="onClickTutorialButton">
 
         <ImageView
-            android:layout_width="60px"
-            android:layout_height="60px"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
             android:onClick="onClickTutorialButton"
             android:paddingLeft="15dp"
             android:src="@drawable/tutorial" />
@@ -242,8 +242,8 @@
         android:onClick="onClickAboutButton">
 
         <ImageView
-            android:layout_width="60px"
-            android:layout_height="60px"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
             android:onClick="onClickAboutButton"
             android:paddingLeft="15dp"
             android:src="@drawable/about" />
